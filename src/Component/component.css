@@ -1,0 +1,21 @@
+.ps-menu-label
+{
+    display: flex !important;
+    flex-direction: row;
+    column-gap: 5px;
+    justify-content: center;
+    align-items: center;
+}
+.menu-item.active {
+    background-color: rgb(110, 139, 179);
+    color: black;
+}
+
+.menu-item:hover {
+    background-color: rgb(110, 139, 179) !important;
+    color: black;
+}
+
+
+
+
